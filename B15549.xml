@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triall of conscience in a quotidian exercise written by Tho. Riley.</title>
+            <author>Riley, Thomas, fl. 1639.</author>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15549</idno><idno type="EEBO-CITATION">24423743_20669</idno>
+  <idno type="VID">20669</idno>
+  <idno type="EEBO-PROQUEST">2264224856</idno>
+  <idno type="STC">STC 21056.4</idno>
+  <idno type="STC">ESTC S119988</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 717:7 or 1824:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Triall of conscience in a quotidian exercise written by Tho. Riley.</title>
+                  <author>Riley, Thomas, fl. 1639.</author>
+               </titleStmt>
+               <extent>[137] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Okes, for John Benson, and are to be sold at his shop in St. Dunstans Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colophon: Imprimatur Sa. Baker. Ex ædibus Londin. Octob. 4. 1638. modo intra tres menses proximè sequentes.</note>
+                  <note>Signatures: A-E12 F10 (last leaf blank).</note>
+                  <note>Title in ornamental border.</note>
+                  <note>Contains added illustrated engraved t.p. with imprint: London, printed for I. Benson, 1639.</note>
+                  <note>This item appears as STC 21056c at reel 717:7 and as STC 21056.4 at reel 1824:17.</note>
+                  <note>Imperfect: copy at reel 1824:17 tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conscience, Examination of --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="poem">
+            <pb facs="tcp:20669:1"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <l>THe Night once come, which <hi>Lampe</hi> implyes,</l>
+            <l>Doe not presume to close thine eyes,</l>
+            <l>Till thou dost on Conscience looke,</l>
+            <l>Who here presents thee with a Booke:</l>
+            <l>Read, in thy Closet search thy sin,</l>
+            <l>Conscience stands to shut thee in:</l>
+            <l>Where, whilst thou dost thy God implore,</l>
+            <l>She her owne selfe shall keepe the doore.</l>
+            <l>What she here speaks is Heathen Greeke</l>
+            <l>To old-Law-men, but those who seeke</l>
+            <l>God as they ought, by Gospell, shall</l>
+            <l>Finde it her new Originall.</l>
+            <l>Adde onely this Construction to it,</l>
+            <l>Doe it <hi>Exactly,</hi> or never doe it.</l>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:20669:1"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>TRIA<gap reason="illegible" resp="#uom" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#uom" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> CONSCIENCE</hi> In a Quotidian Exercise.</p>
+                  <p>by T. R.</p>
+                  <p>
+                     <hi>London,</hi> Printed for I. Benson. 1639.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:20669:2"/>
+            <pb facs="tcp:20669:2"/>
+            <p>Triall of Conscience.</p>
+            <p>IN A <hi>Quotidian Exercise.</hi>
+            </p>
+            <q>
+               <p>Who shall set scourges over my thoughts? or the Discipline of wise<g ref="char:EOLhyphen"/>dome over my Heart? <bibl>
+                     <hi>Ecclus. 22.</hi>
+                  </bibl>
+               </p>
+               <p>Lord, thou knowest my downe-sit<g ref="char:EOLhyphen"/>ting, and my uprising, thou under<g ref="char:EOLhyphen"/>standest my thoughts long before: Thou art about my path and my bed, and spiest out all my wayes. <bibl>
+                     <hi>Psa. 139</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Written by THO. RILEY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Okes,</hi> for <hi>John Benson,</hi> and are to be sold at his shop in St. <hi>Dunstans</hi> Church-yard. 1639.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:20669:3"/>
+            <pb facs="tcp:20669:3"/>
+            <head>To the Right Honourable Lady, the Countesse of <hi>D.</hi> &amp;c.</head>
+            <opener>
+               <salute>Most pious Lady:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat's all the Title I shall bee bold with at this time; your <hi>Religion</hi> in my eyes being a more
+<pb facs="tcp:20669:4"/> glorious attribute than your <hi>Court<g ref="char:EOLhyphen"/>ly Honours:</hi> I am glad your <hi>Re<g ref="char:EOLhyphen"/>quest</hi> (though I wish it bad beene a <hi>Command</hi>) hath prevented my slacknesse, and turn'd my <hi>Pre<g ref="char:EOLhyphen"/>sent</hi> into a <hi>Debt,</hi> and my <hi>Gift</hi> into
+<pb facs="tcp:20669:4"/> a <hi>Duty:</hi> GOD knows with what joy I read your faire <hi>Letter,</hi> when I perceiv'd Your holy desire to bee instructed by Writing con<g ref="char:EOLhyphen"/>cerning the dayly Tryall of Consci<g ref="char:EOLhyphen"/>ence, which be<g ref="char:EOLhyphen"/>fore wee past over
+<pb facs="tcp:20669:5"/> in a short Dis<g ref="char:EOLhyphen"/>course, which is but conceite and thought made au<g ref="char:EOLhyphen"/>dible by Words; whereas the du<g ref="char:EOLhyphen"/>ring Character is both thought and word made vi<g ref="char:EOLhyphen"/>sible and perma<g ref="char:EOLhyphen"/>nent. I would to God (so much I
+<pb facs="tcp:20669:5"/> tender my Soules good) that I were alwaies thus im<g ref="char:EOLhyphen"/>ployed, upon con<g ref="char:EOLhyphen"/>dition I could bee alwaies thus hap<g ref="char:EOLhyphen"/>pily prevented in the unforc'd de<g ref="char:EOLhyphen"/>sires of a Devoute Soule. So little cause your honour had to complement
+<pb facs="tcp:20669:6"/> a feare of trouble in my task, which is above merit re<g ref="char:EOLhyphen"/>warded in the ve<g ref="char:EOLhyphen"/>ry imployment, e<g ref="char:EOLhyphen"/>specially since your Goodnesse hath condescended to request, where your Greatnesse might command. Hee that in this
+<pb facs="tcp:20669:6"/> would not serve you, would forfeit the Title of Ser<g ref="char:EOLhyphen"/>vant to his God; who put it into your soule, to put Your Conscience into a <hi>Quotidi<g ref="char:EOLhyphen"/>an Triall:</hi> a great mysterie in Di<g ref="char:EOLhyphen"/>vinity, every heart does not
+<pb facs="tcp:20669:7"/> conceive it, every eye cannot see it; or both these be<g ref="char:EOLhyphen"/>ing yeelded, every hand cannot skill to put that in acti<g ref="char:EOLhyphen"/>on, which the heart has in spe<g ref="char:EOLhyphen"/>culation. Concer<g ref="char:EOLhyphen"/>ning which in<g ref="char:EOLhyphen"/>comparable helpe to all <hi>Devotion,</hi>
+               <pb facs="tcp:20669:7"/> I could relate un<g ref="char:EOLhyphen"/>to you what admi<g ref="char:EOLhyphen"/>rable and Divine Elogies it has beene Crowned within the circle of all Ages, ever since the Patri<g ref="char:EOLhyphen"/>arch walk't out in<g ref="char:EOLhyphen"/>to the Fields to meditate, even to this colder time
+<pb facs="tcp:20669:8"/> of, at the best luke<g ref="char:EOLhyphen"/>warme Religion; by what, and how many glorious Lu<g ref="char:EOLhyphen"/>minaries of the Church, nay, the very Sophies and Philosophers it hath been set upon a hill conspicuous to all the World, had the World not
+<pb facs="tcp:20669:8"/> lost her old Eye-sight: But the rare Opinion your Honour professes to have enter<g ref="char:EOLhyphen"/>tain'd of it at my first Discourse, saves all this La<g ref="char:EOLhyphen"/>bour, and I shall hereafter ranke your admiration of it amongst the
+<pb facs="tcp:20669:9"/> choysest Argu<g ref="char:EOLhyphen"/>ments, both of its use &amp; glory: both being exceeding ample; the use be<g ref="char:EOLhyphen"/>cause of its neces<g ref="char:EOLhyphen"/>sity to Man; the glory by reason of our familiaritie with God: <hi>A<g ref="char:EOLhyphen"/>braham</hi> beeing from hence espe<g ref="char:EOLhyphen"/>cially
+<pb facs="tcp:20669:9"/> stil'd <hi>Gods Friend.</hi> We see, that speaking af<g ref="char:EOLhyphen"/>ter the manner of men, time has de<g ref="char:EOLhyphen"/>riv'd unto us a Proverbe, viz. <hi>that even recko<g ref="char:EOLhyphen"/>nings make long Friends.</hi> GOD has caught the World, or would
+<pb facs="tcp:20669:10"/> doe in her owne Dialect: For this <hi>EXAMINATION</hi> being derived from a Latin word that signifies the Tongue of the Scales, is nothing else but a just and even <hi>Triall</hi> of the <hi>Conscience</hi> (by that weight which
+<pb facs="tcp:20669:10"/> Law exacts, and that Allowance which Gospel per<g ref="char:EOLhyphen"/>mits) every Day in the Sight of GOD, that all Accounts of the Soule may be even before the Image of <hi>Death,</hi> that is, <hi>Sleepe</hi> sieze on us in a figure:
+<pb facs="tcp:20669:11"/> So that let GOD please, to call when hee plea<g ref="char:EOLhyphen"/>ses, no Minuite shall finde us in security, all our Accompts are made, and writ in the blood of a Mediator, all is even, be<g ref="char:EOLhyphen"/>cause hee has
+<pb facs="tcp:20669:11"/> paide all, and thus GOD and wee are Friends for all our ine<g ref="char:EOLhyphen"/>quality: Thus with <hi>Enoch</hi> wee walke with GOD here, till it please him to translate us to a better place. This is the <hi>Tryall</hi> in gene<g ref="char:EOLhyphen"/>rall,
+<pb facs="tcp:20669:12"/> and a hap<g ref="char:EOLhyphen"/>py Soule it is wheresoever this gracious Guest shall make abode: Wherfore to make some little, but constant prepara<g ref="char:EOLhyphen"/>tion, Ile onely doe as much for the Stranger, as the <hi>Shunanite</hi> did
+<pb facs="tcp:20669:12"/> for the waifaring Prophet, provide a Table, a Stoole, and a Candlestick, the one for his re<g ref="char:EOLhyphen"/>past, the other for his repose, the last for his late and early Secti<g ref="char:EOLhyphen"/>ons and Devoti<g ref="char:EOLhyphen"/>ons, that is, by way of Introdu<g ref="char:EOLhyphen"/>ction
+<pb facs="tcp:20669:13"/> set downe three generall Re<g ref="char:EOLhyphen"/>quisites necessary to bee observed of all those who in<g ref="char:EOLhyphen"/>tend to reape a blessing by this ex<g ref="char:EOLhyphen"/>ercise.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:20669:13"/>
+            <head>Triall of Conscience.</head>
+            <div n="1" type="section">
+               <head>The first Section.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He first is, that this <hi>Tryall</hi> bee not undertaken with any reluctancy, as a burthen or taske of compell'd piety, but
+<pb facs="tcp:20669:14"/> with alacrity rather, and as a great gift and priviledge from Al<g ref="char:EOLhyphen"/>mighty God towards an exercis'd soule, that whereas most in the World runne on, not considering what debts and trespasses they owe for unto their God, who takes a Note-booke of every dayes transgressions, til the summe amounts above the power of payment; yet we have beene made so happy, as to have this duty
+<pb facs="tcp:20669:14"/> reveal'd for its excel<g ref="char:EOLhyphen"/>lent use, there's one blessing, and to have both an earnest of some, and a promise of more power, upon our Prayers, to performe what's reveal'd, there's another. Wherefore resolve, by Gods assi<g ref="char:EOLhyphen"/>stance, to goe on con<g ref="char:EOLhyphen"/>stantly and chearefully, or else better not begin at all.</p>
+               <p>This is the first, the second follows it, e<g ref="char:EOLhyphen"/>ven in its owne nature: namely this.</p>
+            </div>
+            <div n="2" type="section">
+               <pb facs="tcp:20669:15"/>
+               <head>The second Section.</head>
+               <p>THe second is, that this Holy Exer<g ref="char:EOLhyphen"/>cise being thus begun, we beware that we ga<g ref="char:EOLhyphen"/>ther all day for our ac<g ref="char:EOLhyphen"/>compt at night, refer<g ref="char:EOLhyphen"/>ring every blessing re<g ref="char:EOLhyphen"/>ceived, and every sin, so much as in an obser<g ref="char:EOLhyphen"/>ved thought commit<g ref="char:EOLhyphen"/>ted, to its proper place against evening, that the accompts may
+<pb facs="tcp:20669:15"/> be the more full, expe<g ref="char:EOLhyphen"/>diate, and easie: As for example, as soone as I finde I have done, or spoke, or thought any thing amisse, though amongst a Million of multitudes, let me bee sure to speake inward<g ref="char:EOLhyphen"/>ly to my Soule in this, or the like wing'd eja<g ref="char:EOLhyphen"/>culation: Well, this word, or this thought, since (O Lord) it has pleased thee to discover it unto me, shal, I hope, cost mee many a bitter sigh at my night-ac<g ref="char:EOLhyphen"/>compts,
+<pb facs="tcp:20669:16"/> before I dare to close my eyes: A very thought will doe it, even at any worke of our Calling; though I confesse more or lesse should bee set a<g ref="char:EOLhyphen"/>part, according as God has blest us with opportunity, that De<g ref="char:EOLhyphen"/>votion neither turne sloath, as the super<g ref="char:EOLhyphen"/>stitious Cloister hath made it, nor a Cere<g ref="char:EOLhyphen"/>mony of our security, as the <hi>Libertine</hi> would have it, nor Tyranny, as the fearefull weake
+<pb facs="tcp:20669:16"/> Christian makes it: for in true Devotion all workes of our cal<g ref="char:EOLhyphen"/>ling and family-affaires may be diligently ob<g ref="char:EOLhyphen"/>served, and yet our acts of Piety neverthe<g ref="char:EOLhyphen"/>lesse neglected; nay, the more observed: with our moderate care God sanctifies the workes of our rela<g ref="char:EOLhyphen"/>tive estate, wherein God has put us, as an extraordinary preven<g ref="char:EOLhyphen"/>tion of temptations, and as the great amu<g ref="char:EOLhyphen"/>nition in this and all
+<pb facs="tcp:20669:17"/> other spirituall imploi<g ref="char:EOLhyphen"/>ments: because that besides the Prayer of workes, as the Wise man sayes, <hi>Prov.</hi> 14.10. <hi>The Soule knowes its owne bitternesse, and a stranger shall not meddle with her joy:</hi> That is, a good soule, as it feeles many things for her sinnes, and yet complaines not unto the World, but unto God, who is able to comfort, by sighes and groanes which cannot be ut<g ref="char:EOLhyphen"/>ter'd;
+<pb facs="tcp:20669:17"/> even then per<g ref="char:EOLhyphen"/>chance, when the as<g ref="char:EOLhyphen"/>pect lookes cheereful<g ref="char:EOLhyphen"/>ly upon all society; so in her joyes con<g ref="char:EOLhyphen"/>ceiv'd quietly for mer<g ref="char:EOLhyphen"/>cy receiv'd, shee can send up thankes to God, when the world thinkes shee is about a more inferiour im<g ref="char:EOLhyphen"/>ployment, and so as the heart workes in secret, God sees in secret, and will, though not upon our merit, yet upon his owne free promise, reward us openly: this
+<pb facs="tcp:20669:18"/> is intimated in that of <hi>Job: Job</hi> 4. So I received a thing secret<g ref="char:EOLhyphen"/>ly, and as some Trans<g ref="char:EOLhyphen"/>lations reade it, My Eare received the Veines of his Whisper: And this is the second preparatory.</p>
+            </div>
+            <div n="3" type="section">
+               <head>The third Section.</head>
+               <p>THe third makes all compleate, and is nothing but a con<g ref="char:EOLhyphen"/>stant and setled course
+<pb facs="tcp:20669:18"/> of Temperance &amp; Mo<g ref="char:EOLhyphen"/>deration: take away this, and we ruine all religious courses for ever, because the life of all pious actions is constancy and perse<g ref="char:EOLhyphen"/>verance in practice, which are acts of setled and undisturb'd rea<g ref="char:EOLhyphen"/>son: how then shall a<g ref="char:EOLhyphen"/>ny religious duty bee perform'd, when in<g ref="char:EOLhyphen"/>temperance has stolne away both our reason &amp; memory, so that ei<g ref="char:EOLhyphen"/>ther wee quite omit it, &amp; so lye downe in our
+<pb facs="tcp:20669:19"/> beddes (in <hi>Davids</hi> phrase) like Sheepe and Beasts in Hell, or else huddle it over so perfunctorily, that the action makes not so much for our good, as the manner of it doubles our condem<g ref="char:EOLhyphen"/>nation. Men may thinke what they please, but God is not mocked, neither has he, sayes <hi>Solomon,</hi> any pleasure in fooles: Nor is the intempe<g ref="char:EOLhyphen"/>rance I here exclude onely in fare, as meats
+<pb facs="tcp:20669:19"/> and drinks, but equal<g ref="char:EOLhyphen"/>ly of customary passi<g ref="char:EOLhyphen"/>ons, not regulated by enlightned Reason, as excessive mirth, im<g ref="char:EOLhyphen"/>moderate sorrow, fondly over-flowing and toyish love, unrea<g ref="char:EOLhyphen"/>sonable austerity, and morose behaviour, though the best and most divine courses of Devotion may con<g ref="char:EOLhyphen"/>sist with the casuall unfortunate acts of these affections, yet with their customes and habits they can<g ref="char:EOLhyphen"/>not;
+<pb facs="tcp:20669:20"/> to this I adde the intemperance of the Tongue, especially in joculary and slight discourse, where many a vaine word flies out unregarded. Now if I must give accompt for every idle word at the day of Judgement, as Truth it selfe sayes wee shall, unlesse I make the accompt e<g ref="char:EOLhyphen"/>ven here in the day of Indulgence, how is it possible, that if I make light of these words, but either I must be
+<pb facs="tcp:20669:20"/> forc'd to omit the ac<g ref="char:EOLhyphen"/>compt, by reason of the infinite number, which is desperate, or else teare and wound my Conscience every day by a most tedious and sufferable exami<g ref="char:EOLhyphen"/>nation of this one par<g ref="char:EOLhyphen"/>ticular? which by con<g ref="char:EOLhyphen"/>sequence through the infirmity of the flesh, policy of the Devill, without speciall mer<g ref="char:EOLhyphen"/>cy and ayde of God, may bring an univer<g ref="char:EOLhyphen"/>sall loathing and hate upon the whole duty,
+<pb facs="tcp:20669:21"/> which would be a mi<g ref="char:EOLhyphen"/>sery in the end above all expressions mise<g ref="char:EOLhyphen"/>rable: No marvaile then that St. <hi>James</hi> concludes so roundly in his first Chapter, <hi>If any man seemes to bee devout or religious a<g ref="char:EOLhyphen"/>mongst you, and yet bridle not his Tongue, all that mans devotion and religion is vaine.</hi> And this with helpe of your devout Com<g ref="char:EOLhyphen"/>ment may suffice for the preparatory to this great duty: I will now,
+<pb facs="tcp:20669:21"/> God willing, in all plainnesse shew you the duty it selfe.</p>
+               <p>
+                  <hi>Examination,</hi> or dayly <hi>tryall</hi> of the <hi>Con<g ref="char:EOLhyphen"/>sciēce,</hi> that's the name, and in effect is but ca<g ref="char:EOLhyphen"/>sting up accounts with God, and providing that the bookes of our Consciences here a<g ref="char:EOLhyphen"/>gree with that register that God dayly takes above: a taske easie e<g ref="char:EOLhyphen"/>nough to that soule on whom God hath be<g ref="char:EOLhyphen"/>stowed a true faith in a Saviour, for his Trea<g ref="char:EOLhyphen"/>sure
+<pb facs="tcp:20669:22"/> expends all, no cost at all to us, <hi>Christ</hi> gives the Coyne, the hand of Faith, onely numbers it, and deli<g ref="char:EOLhyphen"/>vers it to whom it is due. This is the ordi<g ref="char:EOLhyphen"/>nary course of living in a continuall peace, though compast with all outward crosses and miseries in the World; for to a good heart, so long as it can nestle in the bosome of eter<g ref="char:EOLhyphen"/>nity, and like that be<g ref="char:EOLhyphen"/>loved Disciple, leane upon the breast of her
+<pb facs="tcp:20669:22"/> Master Jesus, all is well, though it fall out to be the very night of trea<g ref="char:EOLhyphen"/>son and passion: at which time truely this duty is thought by some Divines to have beene manifested in a most exact and extra<g ref="char:EOLhyphen"/>ordinary Example: You know when our Lord was set at meate, that sad night in which he was betrayed, and told his Disciples that notwithstanding all his divine acts of Love, giving his flesh for
+<pb facs="tcp:20669:23"/> their foode, and blood for their drinke, yet one of his owne Dis<g ref="char:EOLhyphen"/>ciples should betray him: every one, even <hi>Iscariot,</hi> but in Hypo<g ref="char:EOLhyphen"/>crisie, beganne first to aske his owne Consci<g ref="char:EOLhyphen"/>ence, and then Christ, who knew more of them than their owne soules, <hi>Lord is it I? Matth.</hi> 26. As if every one, except <hi>Judas,</hi> had said in order; Lord, I know, that although I know nothing by my selfe, yet am I not
+<pb facs="tcp:20669:23"/> thereby justified, and therefore having exa<g ref="char:EOLhyphen"/>mined my Conscience concerning this thy prophesie, that one of us shall betray thee, al<g ref="char:EOLhyphen"/>beit I finde all cleare and free from the least intention of so foule a Treason, yet since thou only knowst what may enter into mans base heart, if thou keep not out all our temptati<g ref="char:EOLhyphen"/>ons; I beseech thee spare me not, if I be the man, name mee, shew me, as a most hi<g ref="char:EOLhyphen"/>deous
+<pb facs="tcp:20669:24"/> Monster of in<g ref="char:EOLhyphen"/>gratitude; such a sinne deserves a shame above the age and sufferance of mortality: there<g ref="char:EOLhyphen"/>fore, deare Master, since my Conscience cannot tell mee of my sinne, thou art grea<g ref="char:EOLhyphen"/>ter than my Consci<g ref="char:EOLhyphen"/>ence, and knowest all things: oh tell mee whether I am that sinfull wretch or no.</p>
+               <p>I would to God e<g ref="char:EOLhyphen"/>very Lords Supper had beene thus eaten, and all Consciences
+<pb facs="tcp:20669:24"/> examin'd beyond their owne knowledge, by an appeale unto <hi>Christ,</hi> concerning their very secret and unknowne sinnes, before they eate of that Bread, and drinke of that Cuppe: but we go further, and prescribe this course, after all Suppers, be<g ref="char:EOLhyphen"/>cause all may be our last, before wee dare take any rest, more or lesse, as health and o<g ref="char:EOLhyphen"/>ther importances shall unfeignedly permit; and to say concerning
+<pb facs="tcp:20669:25"/> all thoughts, words, and actions: Ah Lord, thou hast prophesied in thy Word, that there are some a<g ref="char:EOLhyphen"/>mongst us wicked men, though never so much blest by thee, who having left thee the Creator, have set their hearts upon the Creature, profit, plea<g ref="char:EOLhyphen"/>sures, honours, hu<g ref="char:EOLhyphen"/>mours, bellies, Lord is it I? Others, that in the superstitious vanities of their minde have set up Idols to wor<g ref="char:EOLhyphen"/>ship
+<pb facs="tcp:20669:25"/>
+'em, and who serve thee after their owne wills, not thy Rules, who relye on Angels and Saints, and their owne arme for helpe: Lord is it I? Come thou sayest there are who take thy name in vaine, by horrid oaths, blasphemies, <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>estings upon sacred Writ, mistakes of Mi<g ref="char:EOLhyphen"/>nisters, infirmities of the Prophets, in their <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unction of Preaching and Reading the holy Word: Lord is it I?
+<pb facs="tcp:20669:26"/> Others, who neglect their workes of calling upon Dayes of wor<g ref="char:EOLhyphen"/>king, and yet prophane the dayes of rest by working unlawful things; by idlenesse, by lawlesse and unpermit<g ref="char:EOLhyphen"/>ted Recreations, by not frequenting the publicke place of holy worship on the Lords Day, and other holy times appointed; by slighting of Common Prayer, unreverent and carelesse behaviour unconformable Ge<g ref="char:EOLhyphen"/>stures
+<pb facs="tcp:20669:26"/> in the time of Divine Service, by ha<g ref="char:EOLhyphen"/>ving itching eares at Sermons, and censu<g ref="char:EOLhyphen"/>ring all, more than practising any: by neglect of the Lords Work upon the Lords Day; some by Judai<g ref="char:EOLhyphen"/>zing nicety; some by Heathen prophanesse; some there be that are guilty of all these things, Lord is it I? If it be, Lord speake to my soule in the Revelation of thy Love, that it my re<g ref="char:EOLhyphen"/>turne
+<pb facs="tcp:20669:27"/> an Answer in the confession of her owne unworthinesse, that I may repent ever before I sinne, because I know all sinnes of all degrees would bee mine without thy gracious prevention.</p>
+               <p>And thus, as I have shewed you in the first Table of the Deca<g ref="char:EOLhyphen"/>logue, so you ought to proceede in the second, and examine all transgressions of unrighteousnesse and falshood against our
+<pb facs="tcp:20669:27"/> Brother, of excesse and lust, distemperance a<g ref="char:EOLhyphen"/>gainst our owne per<g ref="char:EOLhyphen"/>sons, immediately ta<g ref="char:EOLhyphen"/>king this Caveat, That you alwayes reduce the first motion of a<g ref="char:EOLhyphen"/>ny sinne you have cōmitted, to that Com<g ref="char:EOLhyphen"/>mandement which for<g ref="char:EOLhyphen"/>bids the last act: as if thou hast falne into that vile sinne of un<g ref="char:EOLhyphen"/>advised wrath: Nay, if but inward rank or &amp; malice of the heart, aske pardon as for Murther: if but a
+<pb facs="tcp:20669:28"/> lascivious glance has past the whole day; aske mercy as for A<g ref="char:EOLhyphen"/>dultery; for God can never bee enough glo<g ref="char:EOLhyphen"/>rified, nor man too a<g ref="char:EOLhyphen"/>based before God: All inward and close murmurings against any superiour, or the Dictates of lawfull Authority, all proud speaking and boasting of our owne worth, must bee refer'd to the breaches of the first Commandement, and so of the rest: and then
+<pb facs="tcp:20669:28"/> after all these Lords is it I, thy Conscience doubtlesse will often answer, as Christ did to <hi>Iscariot, Thou hast said it,</hi> confesse and a<g ref="char:EOLhyphen"/>mend. Now for the better performance of this rare exercise, I'le set downe these few Conditions.</p>
+            </div>
+            <div n="1" type="section">
+               <pb facs="tcp:20669:29"/>
+               <head>The first Section.</head>
+               <p>FIrst, it must be done ENTIRELY, to<g ref="char:EOLhyphen"/>tally, not by peece-meales; some peculiar minuits must bee set apart, wherein this worke may bee entire<g ref="char:EOLhyphen"/>ly attended on, and because many living under the authority of ill-hour'd Masters, can<g ref="char:EOLhyphen"/>not be masters of their owne time, 'tis safest
+<pb facs="tcp:20669:29"/> to set that time apart, which immediately precedes our time of rest, and then make our bodies by this holy and Divine ser<g ref="char:EOLhyphen"/>vice, a true Temple unto the God of <hi>Is<g ref="char:EOLhyphen"/>rael:</hi> And this once begunne, <hi>Davids</hi> vow must bee every day e<g ref="char:EOLhyphen"/>very mans resolution: <hi>I will not suffer my eyes to sleepe, nor eye<g ref="char:EOLhyphen"/>lids to slumber; no, not the Temples of my head to take any rest, untill I finde a place for the
+<pb facs="tcp:20669:30"/> Temple of the Lord, an habitation for the migh<g ref="char:EOLhyphen"/>ty God of Jacob:</hi> The heart may and must treasure up against night all the day long true and impartiall notes: but this must be the entire time for the generall accompts, and conferring Gods bookes and our owne together, so wee shall quickly by Gods helpe, see every thing that is amisse in us, and what wee finde extraordina<g ref="char:EOLhyphen"/>ry evill, learne to have
+<pb facs="tcp:20669:30"/> an extraordinary sor<g ref="char:EOLhyphen"/>row for it, and an ex<g ref="char:EOLhyphen"/>traordinary care over it; that although it chance not to be quite remov'd, yet every day may be sensible, or at least be hopefull of some abatement.</p>
+               <p>This is the first, that it be done entire<g ref="char:EOLhyphen"/>ly, without interrupti<g ref="char:EOLhyphen"/>on, at some peculiar destin'd season.</p>
+            </div>
+            <div n="2" type="section">
+               <pb facs="tcp:20669:31"/>
+               <head>The second Section.</head>
+               <p>THE second re<g ref="char:EOLhyphen"/>quires, that besides this, it also bee perfor<g ref="char:EOLhyphen"/>med <hi>accurately, exact<g ref="char:EOLhyphen"/>ly;</hi> not slightly, nor carelessely, but as that Royall Prophet us'd to doe it: Behold, O Lord, how I labour in my Prayer, and am vexed; vexed, because after all my care and diligence, I finde such
+<pb facs="tcp:20669:31"/> imperfections even in my Prayers: And in the 77. <hi>Psalme, verse</hi> 6. At night I commune and discourse with my owne heart, and exa<g ref="char:EOLhyphen"/>mine or search out my Spirit, or (as the word will beare it) and sweep my Spirit: No wet finger worke, no slight businesse, no perfun<g ref="char:EOLhyphen"/>ctory imployment, no Exercise by the By: but attention, privacy, meditation, deepe stu<g ref="char:EOLhyphen"/>dy, recollection, exa<g ref="char:EOLhyphen"/>mination, cleansing (as
+<pb facs="tcp:20669:32"/> with a Broome) all, so much as filth and Dust in every angle of the heart, though it be never so tedious, and the stir'd dust flie up in our very eyes and no<g ref="char:EOLhyphen"/>strils: and yet there are some wayes of allaying this dust so farre, as it shall not flye so high as to hurt that eye that discovers it; as wee see in our daily experi<g ref="char:EOLhyphen"/>ence, a little water sprinkled will so unite so many of the little bodies together, that
+<pb facs="tcp:20669:32"/> at length they grow so heavy, that they can<g ref="char:EOLhyphen"/>not ascend at all, but are swept out with pollutions of a grea<g ref="char:EOLhyphen"/>ter size: if wee sweepe softly, <hi>commune with your hearts, and bee quiet, Psal.</hi> 4. 'Tis just so with the Soule in this case: the Devill, like his jugling vassals, would faine bee raising of mists, even from that which wee are sweeping out; but wee must know that all he raises is on purpose to
+<pb facs="tcp:20669:33"/> over-perplexe us at the sight of our owne pollutions: and there<g ref="char:EOLhyphen"/>fore keepe but this dust from flying up<g ref="char:EOLhyphen"/>wards, and all is well: a little blood or wa<g ref="char:EOLhyphen"/>ter out of our Saviours side will doe it, and keepe all so low, that nothing shall rise up, either to shame or trouble us: This being a speciall Caveat a<g ref="char:EOLhyphen"/>bout this second Con<g ref="char:EOLhyphen"/>ditiō, that we take not so severely an exact ac<g ref="char:EOLhyphen"/>count, that it should
+<pb facs="tcp:20669:33"/> tend to dejection, or threaten a desperati<g ref="char:EOLhyphen"/>on: No, before ever wee looke upon the sinne that pollutes us, as we are Christians, let us bee provided of some of the immacu<g ref="char:EOLhyphen"/>late Lambes blood, that has cleansed us from the Tyranny and condemning power of all sinne: so that if wee discover most high &amp; hainous offences in our Soules, let the sight bee cause not of a sullen acedy, and lazy
+<pb facs="tcp:20669:34"/> disconsolation, but of a quicke and lively re<g ref="char:EOLhyphen"/>morse, rather a while Contemplating the greatnesse and glory of that mercy which has promis'd to pardō so great a sinne, and so great a number upon a true Repentance; not that man may dare to presume, but that man should not dare to despaire, and that all sinnes should pro<g ref="char:EOLhyphen"/>duce a pious humilia<g ref="char:EOLhyphen"/>tion, but never any impious Dejection,
+<pb facs="tcp:20669:34"/> there being no sinne in all the World more dangerous to man, nor more derogatory from the glory of a God Sa<g ref="char:EOLhyphen"/>viour, than Desperati<g ref="char:EOLhyphen"/>on for any sinne what<g ref="char:EOLhyphen"/>soever. The Devill often nicknames un<g ref="char:EOLhyphen"/>godly sorrow, and de<g ref="char:EOLhyphen"/>sperate thoughts by the faire Title of Mor<g ref="char:EOLhyphen"/>tification and Humi<g ref="char:EOLhyphen"/>lity: but both grosse<g ref="char:EOLhyphen"/>ly false, because Mortification alwaies workes by Faith: Humility submits in
+<pb facs="tcp:20669:35"/> hope and love, but Desperation has lost all Faith and Hope: and surely unreligious Melancholy is direct<g ref="char:EOLhyphen"/>ly opposite to Love, and Hope and Faith altogether: And there<g ref="char:EOLhyphen"/>fore I adde a third Condition of a high and mysterious conse<g ref="char:EOLhyphen"/>quence.</p>
+            </div>
+            <div n="3" type="section">
+               <pb facs="tcp:20669:35"/>
+               <head>The third Section.</head>
+               <p>THe third is, that all bee done affe<g ref="char:EOLhyphen"/>ctionately, feelingly, with a lively sence both of godly joy for mercies receiv'd, and godly sorrow for sins detected; that all our feares may bee of Love, and all our Loves season'd with Filiall Reverence, all our joyes, joyes of sa<g ref="char:EOLhyphen"/>cred
+<pb facs="tcp:20669:36"/> teares, and all our sighes and sorrowings issues of joy: like good natur'd and pious chil<g ref="char:EOLhyphen"/>dren, who having falne into any offence against indulgent Pa<g ref="char:EOLhyphen"/>rents, are sad and sure of pardon together; nay, the certainty of the one, increases the dolour of the other, because to good soules offence is greater tor<g ref="char:EOLhyphen"/>ment than punish<g ref="char:EOLhyphen"/>ment: so lovely is mercy to a penitent, and yet so foule is sinne
+<pb facs="tcp:20669:36"/> to a religiously sad delinquent, because the abuse of Clemency in a Judge, aggra<g ref="char:EOLhyphen"/>vates the Lawes trans<g ref="char:EOLhyphen"/>gression above the act of the Peccant: wher<g ref="char:EOLhyphen"/>fore take this as a my<g ref="char:EOLhyphen"/>stery in this rare Art of dayly <hi>Tryall:</hi> It may and will doubt<g ref="char:EOLhyphen"/>lesse fall out, that up<g ref="char:EOLhyphen"/>on often practice of this duty, the nature of our dayes may differ; and that upon some Accompts wee may, as wee shall alwayes,
+<pb facs="tcp:20669:37"/> both more or lesse, finde more mercies be<g ref="char:EOLhyphen"/>stowed than sinnes committed, so power<g ref="char:EOLhyphen"/>full may grace by the gift of God bee: o<g ref="char:EOLhyphen"/>ther times the sinnes may appeare farre a<g ref="char:EOLhyphen"/>bove positive particu<g ref="char:EOLhyphen"/>lar mercies, for that of preservation is conti<g ref="char:EOLhyphen"/>nuall: if the first fall out, as our owne soules can onely testifie, then joy tryumphes; if the last, then sorrow has got the Day. Where<g ref="char:EOLhyphen"/>fore have a care never
+<pb facs="tcp:20669:37"/> to performe one with<g ref="char:EOLhyphen"/>out the other; if joy for mercies beginne, let Religious sorrow for the very imperfe<g ref="char:EOLhyphen"/>ctions of thy good actions conclude the Meditation, for feare joy alone grow either proud or wanton, or daring: If sorrow for a multitude of fal<g ref="char:EOLhyphen"/>lings, before the Medi<g ref="char:EOLhyphen"/>tation cease, raise thy soule up with contem<g ref="char:EOLhyphen"/>plation of that joy which ought to be in a
+<pb facs="tcp:20669:38"/> sinner, though never so sinfull, because of a Sa<g ref="char:EOLhyphen"/>viour, for feare griefe grow desperate, and dishonour the infinite mercy of thy JESUS, and destroy thy peace here, and thy whole person hereafter. Let this bee retain'd as a Mystery, when thou enterest into thy pri<g ref="char:EOLhyphen"/>vacies: but this is onely in particular, now for the generall, since Christ has made Mercy exalt it selfe a<g ref="char:EOLhyphen"/>gainst
+<pb facs="tcp:20669:38"/> Justice, joy must be heire, and at last have a double porti<g ref="char:EOLhyphen"/>on: Every thing here, though it must bee done strictly and ex<g ref="char:EOLhyphen"/>actly, yet alwayes cheerefully: <hi>David</hi> in the 77. <hi>Psalme</hi> calls this Exercise his Song, as if it had beene his chiefe Recreation, and indeede so it is: And although the De<g ref="char:EOLhyphen"/>vill may awhile trouble us, and our flesh loath it, yet at length
+<pb facs="tcp:20669:39"/> length it will appeare to a well practis'd soule, a very sacred pastime, and conti<g ref="char:EOLhyphen"/>nuall Jubilee, and e<g ref="char:EOLhyphen"/>very day shall bee as that awfull time at which they receive the Sacrament, a serious Holy-day: for the truth is, so long as Faith is strong in the Breast of any Christi<g ref="char:EOLhyphen"/>an, the very sight of our sinnes, the most ougly things in the World have a kinde
+<pb facs="tcp:20669:39"/> of comfort: If as Na<g ref="char:EOLhyphen"/>ture had bestowed two eyes upon us, one to be cast upon a Saviour to love him, as the o<g ref="char:EOLhyphen"/>ther upon the sinne to loath it: and as great a comfort it will be to see every day so many of our sinnes by this Triall apprehended, and condemned; and slaine by Mortificati<g ref="char:EOLhyphen"/>on; as it was for the <hi>Israelites,</hi> before they slept to see all their blacke <hi>Aegyptian</hi> e<g ref="char:EOLhyphen"/>nemies
+<pb facs="tcp:20669:40"/> lye dead upon the shore: however, if for Tryall sake it please God to permit a spirituall desertion to lye upon us, let us be quiet, still waiting for the gift of God in patience: for who are wee that God should bestow so great a bles<g ref="char:EOLhyphen"/>sing and spirituall joy upon us? And above all things, in such a cause deferre not spirituall counsell one minuite: God works powerfully
+<pb facs="tcp:20669:40"/> and miraculously in the accepted wayes of his owne Ordinance: and I would to God every one would know this: the very ignorance of it being so great and undis<g ref="char:EOLhyphen"/>cern'd a sinne: in such cases, the 103. <hi>Psalme</hi> is of admirable use, and so is the 51: In one word, mercies must be so rejoyc'd in, that they double our industry in pleasing their Author; Sinnes must bee so la<g ref="char:EOLhyphen"/>mented
+<pb facs="tcp:20669:41"/> in Faith, that the griefe shall double both our experience of mercy, and caution of future transgression, which cannot bee, un<g ref="char:EOLhyphen"/>lesse wee loath our sinnes at heighth in opposition to Gods purity, and cry out with <hi>Job:</hi> Since my eye has seene thee, I repented and abhorre my selfe, and repent in Ashes: that is, Works of mortification, hard<g ref="char:EOLhyphen"/>nesse, want of deli<g ref="char:EOLhyphen"/>cacy,
+<pb facs="tcp:20669:41"/> slender and course fare, watchful<g ref="char:EOLhyphen"/>nesse for a while, and the like, and in all con<g ref="char:EOLhyphen"/>stancy: that's the fourth condition: all the act in generall must bee done con<g ref="char:EOLhyphen"/>stantly, no omission. Those who serve God, God loves them to the end; and they who continue to love God, serve him to the end: If seven times fall, se<g ref="char:EOLhyphen"/>ven times rise againe: nay, if seventy seven
+<pb facs="tcp:20669:42"/> times, seventy thou<g ref="char:EOLhyphen"/>sand times, as often repent, and be sure to continue thy Tryall, and care over all thy actions, remembring the Barre at which thou art to arraigne thy selfe, before Night shall give thee rest; a little day of Judge<g ref="char:EOLhyphen"/>ment: so doubtlesse by the implored mer<g ref="char:EOLhyphen"/>cy of God, our con<g ref="char:EOLhyphen"/>tinuall surveying of Gods mercies, and our owne sinnes constant<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:20669:42"/> every day, cannot chuse but raise in us most admirable love towards the one, and most just hatred of the other, that wee shall arrive to an ex<g ref="char:EOLhyphen"/>cellent temper of the soule, which wee shall manifest in Devotion to our God, in love to every man in Tem<g ref="char:EOLhyphen"/>perance and Chastity, and Sobriety to our owne soules and bo<g ref="char:EOLhyphen"/>dies. What an inut<g ref="char:EOLhyphen"/>terable blessing is it,
+<pb facs="tcp:20669:43"/> that Heaven should be thus on earth, and that every day wee should have so free accesse, and familiar inter<g ref="char:EOLhyphen"/>course with the King of Heaven and Earth? Burne, and not con<g ref="char:EOLhyphen"/>sume, like <hi>Moses</hi> his Chappell in the Bush: for otherwise our God is a consuming fire.</p>
+            </div>
+            <div n="5" type="section">
+               <pb facs="tcp:20669:43"/>
+               <head>The fift Section.</head>
+               <p>THe last Condi<g ref="char:EOLhyphen"/>tion follows, with<g ref="char:EOLhyphen"/>out which, Constan<g ref="char:EOLhyphen"/>cy may chance not to doe so much as shee ought; and this is <hi>Ap<g ref="char:EOLhyphen"/>titude,</hi> all must bee done fitly, conveni<g ref="char:EOLhyphen"/>ently, proportionably, or we lose a great part of the blessing: The meaning is this: No man we know, but as
+<pb facs="tcp:20669:44"/> all have all, has some peculiar reigning im<g ref="char:EOLhyphen"/>perfection, the Dar<g ref="char:EOLhyphen"/>ling vice, and the tye of all the rest: some have it in thoughts, &amp; musings of vaine-glory, and Castles in the Aire. Others in their words, oft swea<g ref="char:EOLhyphen"/>ring, jesting slanders, filthy discourse, &amp;c. O<g ref="char:EOLhyphen"/>thers in grosse Actions of severall sorts: Now whatsoever it be, if thy hearts impartiall expe<g ref="char:EOLhyphen"/>rience shall (after Pray<g ref="char:EOLhyphen"/>er
+<pb facs="tcp:20669:44"/> to God how to finde it, since the Devill so strives to conceale it) once finde by custome and selfe-love what &amp; which it is; then must the heart at time of <hi>Tryall</hi> take a double survey of all her parti<g ref="char:EOLhyphen"/>culars, lay a double weight of sorrowes Mortification upon all her Extravagances, set a double watch over all her by-pathes, avoyding every occa<g ref="char:EOLhyphen"/>sion that has hereto<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:20669:45"/> but tended unto any of her acts; and the more noted occa<g ref="char:EOLhyphen"/>sions, it were not a<g ref="char:EOLhyphen"/>misse to take a peculi<g ref="char:EOLhyphen"/>ar Catalogue of them, by some Characters onely knowne unto our selves, that wee may meete with all her baites, &amp; assure our selves, dissolve this knot, and you loosen every sinne in the bo<g ref="char:EOLhyphen"/>dy. Bosome sinnes are the very life of all the rest, take them a<g ref="char:EOLhyphen"/>way,
+<pb facs="tcp:20669:45"/> and it is easie to remove the other, with this great pro<g ref="char:EOLhyphen"/>mise, that this being but one exercise of a thousand, though true<g ref="char:EOLhyphen"/>ly, I thinke the best, wee lay no vertue or efficacy upon the ex<g ref="char:EOLhyphen"/>ercise, but all upon the co-operating Grace, and blessing of God. And thus I have shew'd you briefly and plainely how the Triall must bee done: I must now shew you what
+<pb facs="tcp:20669:46"/> must be done, and the severall parts of this <hi>Exercise,</hi> and all too with the same brevity.</p>
+            </div>
+            <div n="1" type="section">
+               <head>The first Section.</head>
+               <p>FIrst then, though particular order may be free, I should prescribe that the whole course and or<g ref="char:EOLhyphen"/>der of the Devotion from the beginning to the end might compleatly bee agree<g ref="char:EOLhyphen"/>d
+<pb facs="tcp:20669:46"/> upon before ever the knee were bended: after this, having set our selves not in the lazy posture of one knee, and a columnary elbow, but to such a position, that might with its owne reve<g ref="char:EOLhyphen"/>rence strike the Ma<g ref="char:EOLhyphen"/>ster with a thought of what he is about, a Publican prostration, a humble eye, a sadly serious Aspect, a beaten breast, deepe but quiet groanes,
+<pb facs="tcp:20669:47"/> still and lowly voice; all this even Nature would dictate to a Heathen. After this let the Prayer begin with a gratefull re<g ref="char:EOLhyphen"/>hearsall of Gods mer<g ref="char:EOLhyphen"/>cies, under which name reckon his Judgments also, which his wisedome and love has chastised thee by, or try'd thy love to him by laying them on those who have re<g ref="char:EOLhyphen"/>lations of love unto thee, as the soule has
+<pb facs="tcp:20669:47"/> treasur'd the store up from time to time in particular for those of that day, even to that liberty of prayer: and because none may bee omitted, let Je<g ref="char:EOLhyphen"/>sus bee mentioned one for all; for from eternall Election to eternall glory all is Jesus; so desiring God for his sake to make us really thankfull for them to him, and his bounty to continue thē to us, according to his
+<pb facs="tcp:20669:48"/> owne will. The first part, which I call the <hi>Eucharist,</hi> or giving of thankes, is discharged sufficiently.</p>
+            </div>
+            <div n="2" type="section">
+               <head>The second Section.</head>
+               <p>THe second part, let it be Confession of sinnes in generall, from the first to the last of this day where<g ref="char:EOLhyphen"/>in we have liv'd, for herein is Gods mercy wonderfully magni<g ref="char:EOLhyphen"/>fi'd,
+<pb facs="tcp:20669:48"/> and our owne vile<g ref="char:EOLhyphen"/>nesse mightily aggra<g ref="char:EOLhyphen"/>vated, that notwith<g ref="char:EOLhyphen"/>standing all Gods fa<g ref="char:EOLhyphen"/>vours, yet we have un<g ref="char:EOLhyphen"/>graciously rebel'd, and yet notwithstanding all our rebellions, God has not left off to bee gracious: in that wee see him affoord us time and power to pray for pardon: so af<g ref="char:EOLhyphen"/>ter particular enume<g ref="char:EOLhyphen"/>ration, with dolour of heart, after the manner afore prescribed, let
+<pb facs="tcp:20669:49"/> us with a Catholicke Confession of knowne and unknowne, not without particular Contrition, for our noted sins of omission, as well as for our reig<g ref="char:EOLhyphen"/>ning and bosome e<g ref="char:EOLhyphen"/>normities committed, desire God to take his owne way in chasti<g ref="char:EOLhyphen"/>zing of us heere, that we may be saved here<g ref="char:EOLhyphen"/>after; and so for Christ Jesus his sake to send the Comforter into our hearts both
+<pb facs="tcp:20669:49"/> with peace and power; peace of Conscience, as touching what wee have done, and power never to doe the same againe, upon the al<g ref="char:EOLhyphen"/>lurements or threates of the whole world.</p>
+            </div>
+            <div n="2" type="section">
+               <head>The second Section.</head>
+               <p>THis second part thus concluded, the third may fitly be entred by transiti<g ref="char:EOLhyphen"/>on,
+<pb facs="tcp:20669:50"/> of magnifying the mercy of God, in per<g ref="char:EOLhyphen"/>mitting us by the in<g ref="char:EOLhyphen"/>tercession of Iesus to pray for one another, and promising to heare our Supplications powr'd out entirely for our Brethren; nay, to blesse us for doing that; for which God gives us both will and power to doe it: Oh the depth of such a mercy!</p>
+            </div>
+            <div n="3" type="section">
+               <pb facs="tcp:20669:50"/>
+               <head>The third Section.</head>
+               <p>THis third part then I'le call <hi>Inter<g ref="char:EOLhyphen"/>cession,</hi> which must containe a briefe, but passionate desire unto Almighty God: first, to glorifie his owne name, in the wayes of his owne Will upon all flesh, though never so unpleasant to car<g ref="char:EOLhyphen"/>nall Reason. Second<g ref="char:EOLhyphen"/>ly,
+<pb facs="tcp:20669:51"/> to have mercy up<g ref="char:EOLhyphen"/>on all men, and to multiply meanes of effectuall conversion to all ungodly men, whether within, or without the pale of the Church. Third<g ref="char:EOLhyphen"/>ly, and in especiall manner, to blesse the universall Church, to heare the groanes of the Saints, and to come quickly, and to prepare every heart for his Comming: meane-while (which
+<pb facs="tcp:20669:51"/> is the fourth part) to blesse, amongst other Christian Kingdomes, that wherein wee en<g ref="char:EOLhyphen"/>joy freedome of Religion, and there<g ref="char:EOLhyphen"/>in to pray for the Lords Annoynted, the Queene, the blood Royall: likewise for all persons, of all sorts, in all places, that all may receive their mea<g ref="char:EOLhyphen"/>sure of Grace, and serve God according<g ref="char:EOLhyphen"/>ly in their severall Callings: and in par<g ref="char:EOLhyphen"/>ticular
+<pb facs="tcp:20669:52"/> to desire God to bestow a double portion upon all our friends, and all those who have relation un<g ref="char:EOLhyphen"/>to us in the bond of blood, affinity, or acquaintance. Fift<g ref="char:EOLhyphen"/>ly, to labour for a blessing upon our e<g ref="char:EOLhyphen"/>nemies, and so the more earnestly to so<g ref="char:EOLhyphen"/>licite God, the more averse wee finde per<g ref="char:EOLhyphen"/>chance our Hearts from our Tongues; and yet beware not to
+<pb facs="tcp:20669:52"/> leave, but even with teares to aske, till we finde some flame of Charity in our soules, asking forgivnesse that wee finde so little; for without this, all the Exercise is no<g ref="char:EOLhyphen"/>thing: for this part is the very touch-stone of all true prayers, the very tryall of the Try<g ref="char:EOLhyphen"/>all: many a thousand will pray exceeding well till they come to this, which they either omit, or performe it
+<pb facs="tcp:20669:53"/> perfunctorily and de<g ref="char:EOLhyphen"/>ceitfully, with reserva<g ref="char:EOLhyphen"/>tions and distinctions, and so all their pray<g ref="char:EOLhyphen"/>ers turne into sinne, and their owne curse: a thing, I am affraid, which is a Canker in most Mens and Wo<g ref="char:EOLhyphen"/>mens Devotions, who otherwise carry a great esteeme and fame of Piety: for seeing we are to con<g ref="char:EOLhyphen"/>clude with the Lords Prayer, wherein wee pray God (the phrase
+<pb facs="tcp:20669:53"/> doubtlesse was put so by the Spirit on pur<g ref="char:EOLhyphen"/>pose) to forgive us our Trespasses, as wee forgive them that trespasse against us; if then wee retaine the least ill will, the least swelling of heart, the least motions of re<g ref="char:EOLhyphen"/>venge, or disdaine, or neglect: it is our owne prayer, that God would doe the like by us; oh the horrour and stupidity of such Devotion, curse, and
+<pb facs="tcp:20669:54"/> damme our selves, for the least wrath of God reserved, excludes from Heaven, as well as his whole displea<g ref="char:EOLhyphen"/>sure. I would to God all would lay this to heart; for assure our selves, the Prophet speakes true, <hi>The Lord is not mocked.</hi> Sixtly, because sinnes of combination and society are the grea<g ref="char:EOLhyphen"/>test sinnes, as wherein, like the Devill, wee turne Tempters, and
+<pb facs="tcp:20669:54"/> as much as lies in us, strive to damme o<g ref="char:EOLhyphen"/>thers also: For this cause I would have a peculiar remembrance of those, whom at any time wee have caused to sinne either by Temptation or Scan<g ref="char:EOLhyphen"/>dall; and a desiring of God that he would blesse us with sacred opportunities, where<g ref="char:EOLhyphen"/>by wee might confesse our sinnes to one ano<g ref="char:EOLhyphen"/>ther, least the heart of one should be hard<g ref="char:EOLhyphen"/>ned,
+<pb facs="tcp:20669:55"/> because it per<g ref="char:EOLhyphen"/>ceives not the heart of the other softned, e<g ref="char:EOLhyphen"/>specially when the tempted and seduced person has an opini<g ref="char:EOLhyphen"/>on of the Tempters Piety or Knowledge, there the Tempter commits a double sinne, if hee imparts not at first opportuni<g ref="char:EOLhyphen"/>ty, his remorse and repentance which God has bestowed upon him: and although some may pretend
+<pb facs="tcp:20669:55"/> equality of transgres<g ref="char:EOLhyphen"/>sion because of ones consent to the others allurement, or in two alike, willing to a fact: yet take this as a Rule, that one alwayes is in Gods esteeme unequal, and in Nature it can<g ref="char:EOLhyphen"/>not bee, but that either temptation, or at least mention, must set one transgressour formost; nay, in the penitence both are bound, who have sinned by socie<g ref="char:EOLhyphen"/>ty, to esteeme them<g ref="char:EOLhyphen"/>selves
+<pb facs="tcp:20669:56"/> each as first in the breach of Gods Law, at least co-equals: This is a Mystery. Seventhly, there must be supplication made for all afflicted peo<g ref="char:EOLhyphen"/>ple, whether in minde, or body, or estate: especially for those who suffer for the Testimony of a good Conscience, as like<g ref="char:EOLhyphen"/>wise for those who groane under a bad one: which would bee the necessary doome
+<pb facs="tcp:20669:56"/> of every man living, did not God in mercy interpose the woun<g ref="char:EOLhyphen"/>ded body of a just Mediator betwixt our sinnes and us. Lastly, though God permits Charity a higher place, yet Humility accepts of this for our owne persons, wherein according to that power of utte<g ref="char:EOLhyphen"/>rance, which God shall bestow upon the soule, wee are to im<g ref="char:EOLhyphen"/>plore most earnestly,
+<pb facs="tcp:20669:57"/> but briefly, first that God would glorifie himselfe in us, whether by life or death, and onely so farre grant our former Petiti<g ref="char:EOLhyphen"/>ons, as they shall stand in conformity to his sacred will and plea<g ref="char:EOLhyphen"/>sure: but withall, that since Iesus has suffe<g ref="char:EOLhyphen"/>red the just for the unjust, God would be pleased to glorifie himselfe in mercy, and for our Saviours sake, to grant us a
+<pb facs="tcp:20669:57"/> lively Faith, by ver<g ref="char:EOLhyphen"/>tue of which wee may sincerely la<g ref="char:EOLhyphen"/>ment our sinnes, by whose power wee may indeed be thank<g ref="char:EOLhyphen"/>full for his mer<g ref="char:EOLhyphen"/>cies, most unfeigned<g ref="char:EOLhyphen"/>ly carefull to grow in piety and saving knowledge: and that all this might happily bee effected, pray unto God uncessantly for his grace and protection this Night, or this Day, and a
+<pb facs="tcp:20669:58"/> dayly competency of his earthly blessings, so farre forth, that wee may attend upon Gods Worke with<g ref="char:EOLhyphen"/>out Distraction, still referring all to Divine pleasure, and besee<g ref="char:EOLhyphen"/>ching God, that what<g ref="char:EOLhyphen"/>soever in these our sinfull prayers, through unworthinesse we have not dar'd, or igno<g ref="char:EOLhyphen"/>rance beene able to aske, or through any imperfection or sinne have either mistak't
+<pb facs="tcp:20669:58"/> or omitted, his mer<g ref="char:EOLhyphen"/>cy would bee pleased to grant those things, to pardon that un<g ref="char:EOLhyphen"/>worthinesse, and sinne, and ignorance, and make up that imper<g ref="char:EOLhyphen"/>fection, for his sake who is his wisedome, our merit, and righte<g ref="char:EOLhyphen"/>ousnesse, and the per<g ref="char:EOLhyphen"/>fection of all things, Jesus Christ, the righ<g ref="char:EOLhyphen"/>teous, to whom, with the father, &amp; holy Spi<g ref="char:EOLhyphen"/>rit, three Persons, one God, be all glory and
+<pb facs="tcp:20669:59"/> power for ever. So desiring God that wee may have leave to shut up our sinfull prayers, with that perfect forme which our Sa<g ref="char:EOLhyphen"/>viour taught us: Let us conclude all with the Lords prayer, and so compose our selves to rest, having com<g ref="char:EOLhyphen"/>mitted all to Christ, as unto a faithfull Re<g ref="char:EOLhyphen"/>deemer; Morning must doe as much for the night, as the night did for the day.</p>
+            </div>
+            <div type="conclusion">
+               <pb facs="tcp:20669:59"/>
+               <p>THus the prescription of the whole duty being finisht, Ile suppose Your Honour, Ma<g ref="char:EOLhyphen"/>dam, in the faire Hopes of those Prayers, which I promise to send
+<pb facs="tcp:20669:60"/> to Heaven eve<g ref="char:EOLhyphen"/>ry Day for Your successe, a happy Proficient in this Rare Exercise; and heereupon I dare prophesie of two temptati<g ref="char:EOLhyphen"/>ons that will sieze uppon you: for Sathan being
+<pb facs="tcp:20669:60"/> as it were thus rejected, and day<g ref="char:EOLhyphen"/>ly exorcis'd by these Acts of Devotions, and therefore mad to see a Soule out of his reach, tempts backe a<g ref="char:EOLhyphen"/>gaine at Di<g ref="char:EOLhyphen"/>stance, with all
+<pb facs="tcp:20669:61"/> his force and po<g ref="char:EOLhyphen"/>licy: Two ex<g ref="char:EOLhyphen"/>treames are his fatall baits. First, (which lightly is the most impi<g ref="char:EOLhyphen"/>ous) he'le per<g ref="char:EOLhyphen"/>swade to a kinde of horrour in the Exercise, and consequent<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:20669:61"/> a loathing of it; so that per<g ref="char:EOLhyphen"/>chance a double feare may seize upon you; one if You omit it, sug<g ref="char:EOLhyphen"/>gesting that You have lost Your former Love; a<g ref="char:EOLhyphen"/>nother, if you per<g ref="char:EOLhyphen"/>forme, suggesting
+<pb facs="tcp:20669:62"/> that the sinners prayers are vain, and that you su<g ref="char:EOLhyphen"/>perstitiously wor<g ref="char:EOLhyphen"/>ship God in a way that hee has not required: but now observe it, and you shall find both false: for first, I have shewed
+<pb facs="tcp:20669:62"/> that this Exercise must be enterd up<g ref="char:EOLhyphen"/>on as a priviledge, not an injunction, because it is nei<g ref="char:EOLhyphen"/>ther our power nor merit that we can performe so rare a worke, but the indulgence of God our Father.
+<pb facs="tcp:20669:63"/> Secondly, that our sinnes ap<g ref="char:EOLhyphen"/>peare so plaine to God; so much the better, so long as Man presumes not, the Mer<g ref="char:EOLhyphen"/>cies of God are the more mag<g ref="char:EOLhyphen"/>nified: Nor is there any feare of
+<pb facs="tcp:20669:63"/> Superstition, since God has comman<g ref="char:EOLhyphen"/>ded the Duty and the manner both: both which God hath done partly by explicite com<g ref="char:EOLhyphen"/>mand, partly by implicite in all those places where hee commands us
+<pb facs="tcp:20669:64"/> to walke circum<g ref="char:EOLhyphen"/>spectly, to trye our wayes, to call to remem<g ref="char:EOLhyphen"/>brance our mis<g ref="char:EOLhyphen"/>deeds and his mercies, to search our spirits, to Examine our hearts: This is the very duty Conso<g ref="char:EOLhyphen"/>nant
+<pb facs="tcp:20669:64"/> to the Text, and the manner not repugnant; so that praier to God for cheerefulnesse in his service, and humility, will lay the Devill by Gods assistance, as soone as it is rais'd. Wherefore
+<pb facs="tcp:20669:65"/> the next time bee appeares, it shall be in quite con<g ref="char:EOLhyphen"/>trary shape, and so set a worke his e cond extreame, which tends as much to Presump<g ref="char:EOLhyphen"/>tion, as the other to Desperation: The Suggestions
+<pb facs="tcp:20669:65"/> are these, that You are excee<g ref="char:EOLhyphen"/>ding happy in the <hi>Practice,</hi> that GOD is Your Debtor for this supererogation, &amp; that all Men are Your inferiours, because scarce one so holy as Your
+<pb facs="tcp:20669:66"/> selfe, that this Exercise hath some inherent rare quality, and the like: but all this also is quick<g ref="char:EOLhyphen"/>ly answered, if you remember that it is the gift and power of GOD, not your owne,
+<pb facs="tcp:20669:66"/> that ever you per<g ref="char:EOLhyphen"/>form'd, or so much as thought upon so sacred an Ex<g ref="char:EOLhyphen"/>ercise, and yet that the Exer<g ref="char:EOLhyphen"/>cise is not to bee Idoliz'd, be<g ref="char:EOLhyphen"/>cause of it selfe it works nothing, merits nothing,
+<pb facs="tcp:20669:67"/> thing, moves no<g ref="char:EOLhyphen"/>thing; onely as GOD blesses his owne Instrument, which any Exer<g ref="char:EOLhyphen"/>cise may doe as well as this, if God please; onely this is a Duty drawne in con<g ref="char:EOLhyphen"/>formity to his
+<pb facs="tcp:20669:67"/> revealed Will, which makes God blesse it the bet<g ref="char:EOLhyphen"/>ter; not for the exercises sake, but for <hi>Christs</hi> sake, in whose Name wee pray; To which it is not dis<g ref="char:EOLhyphen"/>sonant, and yet consonant to the
+<pb facs="tcp:20669:68"/> fate of man; so then selfe-denial, or one thought of origi<g ref="char:EOLhyphen"/>nall impurity, da<g ref="char:EOLhyphen"/>shes this Cocka<g ref="char:EOLhyphen"/>trice in the Egge. This I thought good to forewarne your soule of, be<g ref="char:EOLhyphen"/>cause I would fore-arme it: I shal
+<pb facs="tcp:20669:68"/> pray to God, that any of my Labours may advantage Your Honour in Your course of Religion; and so rest, with a pious ambition of being still thus imploy'd.</p>
+               <closer>
+                  <signed>Your Honours in all due observance. <hi>T. R.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:20669:69"/>
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Sa. Baker:</signed>
+               <dateline>Ex aedibus <hi>Londin.</hi>
+                  <date>Octob. <hi>4. 1638.</hi> modo intra tres Menses proximè se<g ref="char:EOLhyphen"/>quentes.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:20669:69"/>
+         </div>
+      </back>
+   </text>
+</TEI>
